@@ -12,3 +12,15 @@ D:\Repos\TrackGene\TrackGene\obj\Debug\net9.0\refint\TrackGene.dll
 D:\Repos\TrackGene\TrackGene\obj\Debug\net9.0\TrackGene.pdb
 D:\Repos\TrackGene\TrackGene\obj\Debug\net9.0\TrackGene.genruntimeconfig.cache
 D:\Repos\TrackGene\TrackGene\obj\Debug\net9.0\ref\TrackGene.dll
+d:\Repos\TrackGene\TrackGene\bin\Debug\net9.0\appsettings.json
+d:\Repos\TrackGene\TrackGene\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+d:\Repos\TrackGene\TrackGene\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+d:\Repos\TrackGene\TrackGene\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+d:\Repos\TrackGene\TrackGene\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+d:\Repos\TrackGene\TrackGene\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+d:\Repos\TrackGene\TrackGene\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+d:\Repos\TrackGene\TrackGene\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+d:\Repos\TrackGene\TrackGene\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+d:\Repos\TrackGene\TrackGene\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+d:\Repos\TrackGene\TrackGene\obj\Debug\net9.0\TrackGene.csproj.AssemblyReference.cache
+d:\Repos\TrackGene\TrackGene\obj\Debug\net9.0\TrackGene.csproj.Up2Date

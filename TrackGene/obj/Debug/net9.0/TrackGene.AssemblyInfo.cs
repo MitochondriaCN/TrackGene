@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrackGene")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.1.0+03033de2a66387ff16cf5407aebdd324aaf6b20b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrackGene")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrackGene")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.1.0")]
