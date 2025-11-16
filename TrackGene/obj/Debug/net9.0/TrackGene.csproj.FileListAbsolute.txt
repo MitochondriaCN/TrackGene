@@ -1,0 +1,14 @@
+D:\Repos\TrackGene\TrackGene\obj\Debug\net9.0\TrackGene.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\TrackGene\TrackGene\obj\Debug\net9.0\TrackGene.AssemblyInfoInputs.cache
+D:\Repos\TrackGene\TrackGene\obj\Debug\net9.0\TrackGene.AssemblyInfo.cs
+D:\Repos\TrackGene\TrackGene\obj\Debug\net9.0\TrackGene.csproj.CoreCompileInputs.cache
+D:\Repos\TrackGene\TrackGene\bin\Debug\net9.0\TrackGene.exe
+D:\Repos\TrackGene\TrackGene\bin\Debug\net9.0\TrackGene.deps.json
+D:\Repos\TrackGene\TrackGene\bin\Debug\net9.0\TrackGene.runtimeconfig.json
+D:\Repos\TrackGene\TrackGene\bin\Debug\net9.0\TrackGene.dll
+D:\Repos\TrackGene\TrackGene\bin\Debug\net9.0\TrackGene.pdb
+D:\Repos\TrackGene\TrackGene\obj\Debug\net9.0\TrackGene.dll
+D:\Repos\TrackGene\TrackGene\obj\Debug\net9.0\refint\TrackGene.dll
+D:\Repos\TrackGene\TrackGene\obj\Debug\net9.0\TrackGene.pdb
+D:\Repos\TrackGene\TrackGene\obj\Debug\net9.0\TrackGene.genruntimeconfig.cache
+D:\Repos\TrackGene\TrackGene\obj\Debug\net9.0\ref\TrackGene.dll
