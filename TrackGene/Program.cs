@@ -3,7 +3,17 @@ using System.IO;
 using Microsoft.Extensions.Configuration;
 using TrackGene.Configuration;
 
-Console.Write("""
+
+AppConfig appConfig = ConfigManager.GetAppConfig();
+
+if (args.Contains("--help") || args.Contains("-h"))
+{
+  Console.WriteLine("For more information and help, please visit: https://gitlab.54sher.com/54shenghua/trackgene");
+  return;
+}
+else
+{
+  Console.Write("""
 
 
         ,----,
@@ -25,15 +35,7 @@ Console.Write("""
 
 """);
 
-Console.WriteLine($"TrackGene {Assembly.GetExecutingAssembly().GetName().Version?.ToString() ?? "unknown"} by XianlitiCN");
+  Console.WriteLine($"TrackGene {Assembly.GetExecutingAssembly().GetName().Version?.ToString() ?? "unknown"} by XianlitiCN");
 
-//加载配置
-var configBuilder = new ConfigurationBuilder()
-  .SetBasePath(Directory.GetCurrentDirectory())
-  .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
-
-IConfiguration configuration = configBuilder.Build();
-
-AppConfig appConfig = configuration.Get<AppConfig>() ?? new AppConfig();
-
-Console.WriteLine($"TrackPath: {appConfig.TrackPath.GetDisplayValue()}");
+  Console.WriteLine($"TrackPath: {appConfig.TrackPath.GetDisplayValue()}");
+}
