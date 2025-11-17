@@ -2,7 +2,8 @@ using Microsoft.Extensions.Configuration;
 
 namespace TrackGene.Configuration
 {
-    public class ConfigManager
+#pragma warning disable CS8603, CS8618 // 可能返回 null 引用。
+    public static class ConfigManager
     {
         private static AppConfig appConfig;
 
@@ -23,9 +24,8 @@ namespace TrackGene.Configuration
             {
                 Initialize();
             }
-#pragma warning disable CS8603 // 可能返回 null 引用。
             return appConfig;
-#pragma warning restore CS8603 // 可能返回 null 引用。
         }
     }
+#pragma warning restore CS8603, CS8618 // 可能返回 null 引用。
 }
