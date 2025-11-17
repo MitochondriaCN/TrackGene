@@ -23,7 +23,9 @@ namespace TrackGene.Configuration
             {
                 Initialize();
             }
+#pragma warning disable CS8603 // 可能返回 null 引用。
             return appConfig;
+#pragma warning restore CS8603 // 可能返回 null 引用。
         }
     }
 }
