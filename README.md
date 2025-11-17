@@ -13,6 +13,6 @@ TrackGene是用于CSU悦动青春项目的登山轨迹分析工具，也可自�
 | Key                   | 说明 |
 | :---------------------| :---|
 | `TrackPath`           | 导出的所有轨迹`.csv`的文件夹。|
-| `TrackFileNameFormat` | 单个轨迹`.csv`文件的文件名格式。每个文件都需要有一个完整的`id`，使用`{id}`指示。例如：`"record-{id}.csv"`。|
+| `TrackFileNameFormat` | 单个轨迹`.csv`文件的文件名格式。每个文件都需要有一个唯一的`id`，使用`{id}`指示。例如：`"record-{id}.csv"`。|
 | `RemoteApiUrl`        | 请求导出所有轨迹文件到`TrackPath`的API URL。程序将使用`GET`方法访问该URL，后端应当将所有轨迹文件导出到`TrackPath`。|
 | `RemoteApiToken`      | 请求API时携带的Token。该Token将以Query Param的形式自动附着在URL尾部，形式为`?token=xxx`。|
